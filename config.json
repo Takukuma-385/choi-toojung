@@ -1,0 +1,17 @@
+{
+  "discord_webhook_url": "https://discord.com/api/webhooks/1560612855424753724/n69juAbTa0Sj-I3Kcj0R9B7SezN-EzOs13cbii4gdhA-l6ES_Lo4RbfjYVFvlHktuIwA",
+  "products": [
+    {
+      "url": "https://www.kmonstar.com.tw/products/%E6%87%89%E5%8B%9F-choi-yoojung-2nd-single-album-perfect-target-%E5%B0%88%E8%BC%AF%E7%99%BC%E8%A1%8C%E7%B4%80%E5%BF%B5%E7%B0%BD%E5%90%8D%E6%9C%83-in-seoul.json",
+      "custom_name": ""
+    }
+  ],
+  "id_name_map": {},
+  "schedules": [
+    {
+      "start": "2026-10-14 14:00",
+      "end": "2026-10-17 00:00",
+      "interval_minutes": 30
+    }
+  ]
+}
